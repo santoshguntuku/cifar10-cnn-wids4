@@ -10,7 +10,7 @@ This repository contains a complete implementation of Convolutional Neural Netwo
 - `Code1.py` — Basic Neural Network concepts and manual forward propagation.
 - `Code2.py` — Implementation of Convolution and Pooling layers using NumPy.
 - `Code3.py` — End-to-end CNN pipeline using TensorFlow/Keras.
-- `23B2158_Final Report.pdf` — Detailed report of the project with learnings, challenges, and results.
+- `Final Report.pdf` — Detailed report of the project with learnings, challenges, and results.
 
 ---
 
